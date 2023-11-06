@@ -8,6 +8,6 @@ This is a PHP website with recorded sessions.
 - **Your host name on the Internet**: xxx
 - **Local IP address of this server**: x.x.x.x
 - **Name of this server (IP)**: x.x.x.x
-- **Server identification (Software)**: Apache/2.4.57 (Debian)
-- **Client's browser/OS**: Google Chrome on Windows OS
+- **Server identification (Software)**: xxx
+- **Client's browser/OS**: xxx
 - **Number of times F5 has been pressed**: x
